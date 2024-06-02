@@ -37,5 +37,6 @@ What we will do:
         - FAISS and and other vector databases
 
 ## References
-- https://github.com/alexeygrigorev/build-your-own-search-engine
-- https://github.com/alexeygrigorev/llm-rag-workshop
+
+1. [GitHub: Build Your Own Search Engine](https://github.com/alexeygrigorev/build-your-own-search-engine)
+2. [YouTube Tutorial: Implement a Search Engine](https://www.youtube.com/watch?v=nMrGK5QgPVE&t)
